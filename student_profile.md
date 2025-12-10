@@ -1,22 +1,22 @@
 # Student Profile
 
 ## Basic Information
-- **Name:** [Your full name]
-- **Username:** [Your GitHub username]
-- **Email:** [Your school email]
+- **Name:** Husnain Sidhu
+- **Username:** Husnainywainy
+- **Email:** 354194408@educ.dpcdsb.org
 
 ## About Me
-- **Major/Program:** [Your major]
-- **Year:** [Freshman/Sophomore/Junior/Senior]
-- **Interests:** [What are you interested in learning?]
+- **Major/Program:** Criminology
+- **Year:** Senior
+- **Interests:** Criminal law
 
 ## Experience
-- **Programming Languages I've Used:** [List any, or write "None yet!"]
-- **Why I'm Taking This Course:** [Your reason]
+- **Programming Languages I've Used:** Python
+- **Why I'm Taking This Course:** To understand coding as it'll be important to know in the future
 
 ## Goals
-- **What I Want to Learn:** [What do you hope to get from this class?]
-- **Career Interests:** [What field are you interested in?]
+- **What I Want to Learn:** common coding knowledge
+- **Career Interests:** Police force
 
 ## Fun Fact
-[Share something interesting about yourself!]
+My favourite food is pasta
